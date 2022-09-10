@@ -1,6 +1,7 @@
 ### About me
 
 super cool developer
+
 mainly do discord bots and api stuff
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssoups&theme=dark)
