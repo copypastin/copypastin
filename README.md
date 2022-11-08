@@ -9,3 +9,4 @@ mainly do discord bots and api stuff
 My favorite project(s):
 
 [![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=ssoups&repo=public-serverstats&theme=dark)](https://github.com/ssoups/public-serverstats)
+[![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=ssoups&repo=owBot&theme=dark)](https://github.com/ssoups/owBot)
