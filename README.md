@@ -13,7 +13,6 @@ Current Project(s):
 My favorite project(s):
 
 [![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=ssoups&repo=public-serverstats&theme=dark)](https://github.com/ssoups/public-serverstats)
-
-(Note: will revamp later)
+(will revamp later)
 
 [![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=ssoups&repo=owBot&theme=dark)](https://github.com/ssoups/owBot)
