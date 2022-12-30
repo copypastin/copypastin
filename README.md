@@ -13,8 +13,3 @@ mainly do discord bots and api stuff
 #### My favorite project(s):
 
 [![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=copypastin&repo=public-serverstats&theme=dark)](https://github.com/copypastin/public-serverstats) [![Readme%20Card](https://github-readme-stats.vercel.app/api/pin/?username=copypastin&repo=owBot&theme=dark)](https://github.com/copypastin/owBot)
-
-#### Future Projects:
-- JDA bot
-
-
