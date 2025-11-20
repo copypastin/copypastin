@@ -5,7 +5,7 @@ fart smella
 - i like all things data and programming
 - add me on linkedin pls
 
-check out my current project: [copypastin.github.io](https:copypastin.github.io)
+check out my current project: [copypastin.github.io](https://copypastin.github.io)
 
 🦭![](https://komarev.com/ghpvc/?username=copypastin&style=flat-square)
 
