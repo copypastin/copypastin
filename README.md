@@ -7,5 +7,5 @@ fart smella
 
 check out my current project: [copypastin.github.io](https://copypastin.github.io)
 
-🦭![](https://komarev.com/ghpvc/?username=copypastin&style=flat-square)
+![](https://komarev.com/ghpvc/?username=copypastin&style=flat-square)🦭
 
