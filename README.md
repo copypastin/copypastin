@@ -5,7 +5,7 @@
 
 check out my current project: [climb-cv](https://github.com/copypastin/climb-cv)
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/dc770368-467c-4285-b9b7-b35176737194" />
+<img width="800" height="400" alt="header" src="https://github.com/user-attachments/assets/b46a00ce-eb7f-4b1c-8c72-d8877bd73b4a" />
 
 ![](https://komarev.com/ghpvc/?username=copypastin&style=flat-square)
 
