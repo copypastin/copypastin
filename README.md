@@ -1,6 +1,6 @@
-- currently a gis and computing intern at uc berkeley
-- full time cc student and part time ice cream worker
-- i like all things data and programming
+- big fan of all things data, applied computing, and predictive modeling 
+- - ~~currently~~ formerly a gis and computing intern at uc berkeley
+- full time cc student studying data science -> transfering as bioinfomatics/BME
 - add me on linkedin pls
 
 check out my current project: [climb-cv](https://github.com/copypastin/climb-cv)
